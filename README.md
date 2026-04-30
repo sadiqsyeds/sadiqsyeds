@@ -61,7 +61,8 @@ const sadiq = {
 | 🛠️ Project | 💡 What it does | ⚡ Stack |
 |:---:|:---:|:---:|
 | [**instascrape**](https://github.com/sadiqsyeds/instascrape) | Instagram data scraper — because manually scrolling is so 2010 📸 | Node.js |
-| [**link-shrink**](https://github.com/sadiqsyeds/link-shrink) | URL shortener — making long URLs cry 😢 | Node.js |
+| [**LinkShrink**](https://github.com/sadiqsyeds/link-shrink) 🔗 [Live](https://link-shrink-costerx.vercel.app/) | URL shortener — making long URLs cry 😢 | Next.js · TypeScript · Supabase |
+| [**Convertiqo**](https://github.com/sadiqsyeds/convertiqo) 🔗 [Live](https://convertiqo.vercel.app/) | File converter — images, videos, PDFs & docs, right in your browser 🔄 | Next.js · TypeScript · Tailwind CSS |
 | [**open-layers**](https://github.com/sadiqsyeds/open-layers) | OpenLayers map integration — I put the world on a screen 🗺️ | JavaScript |
 
 </div>
